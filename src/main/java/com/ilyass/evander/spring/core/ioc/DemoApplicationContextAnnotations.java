@@ -2,7 +2,7 @@ package com.ilyass.evander.spring.core.ioc;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-public class DemoApplicationContextAnnotation {
+public class DemoApplicationContextAnnotations {
 
 	public static void main(String[] args) {
 
